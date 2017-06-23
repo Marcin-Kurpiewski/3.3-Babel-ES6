@@ -1,5 +1,5 @@
 {
-  "name": "3.4-babel-es6",
+  "name": "3.3-babel-es6",
   "version": "1.0.0",
   "description": "BABEL-ES6-test",
   "main": "index.html",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6/issues"
   },
-  "homepage": "https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6#readme"
+  "homepage": "https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1"
+  }
 }
