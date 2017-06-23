@@ -1,0 +1,19 @@
+{
+  "name": "3.4-babel-es6",
+  "version": "1.0.0",
+  "description": "BABEL-ES6-test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6.git"
+  },
+  "author": "Marcin K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6/issues"
+  },
+  "homepage": "https://github.com/Marcin-Kurpiewski/3.3-Babel-ES6#readme"
+}
