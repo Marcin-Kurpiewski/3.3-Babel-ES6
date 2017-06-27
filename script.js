@@ -6,4 +6,4 @@ function buildString(...template){
 
 console.log(buildString('chockolate'));
 console.log(buildString('chockolate', 'milk'));
-console.log(buildString('chockolate', 'milk' , 'kaffe');
+console.log(buildString('chockolate', 'milk' , 'kaffe'));
